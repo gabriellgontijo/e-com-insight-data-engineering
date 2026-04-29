@@ -25,7 +25,7 @@ RA: 222522596
 ---
 
  Link do Repositório
-https://github.com/SEU-USUARIO/NOME-DO-REPO
+https://github.com/gabriellgontijo/e-com-insight-data-engineering
 
 ---
 
