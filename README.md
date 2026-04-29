@@ -22,3 +22,16 @@ A solução adota o modelo Lakehouse com abordagem Lambda, permitindo o processa
 Autor:
 Gabriel Lagares  
 RA: 222522596
+---
+
+ Link do Repositório
+https://github.com/SEU-USUARIO/NOME-DO-REPO
+
+---
+
+ Estrutura do Projeto
+
+- docs/ → documentação completa do projeto
+- README.md → visão geral
+
+---
